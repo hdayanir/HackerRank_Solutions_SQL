@@ -1,0 +1,3 @@
+-- github.com/hdayanir
+
+select count(*) from CITY WHERE POPULATION > 100000
